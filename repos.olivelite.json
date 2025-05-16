@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "Android_Kernel_Xiaomi_sdm439",
       "repo": "https://github.com/mi-sdm439/android_kernel_xiaomi_sdm439.git",
       "branch": "A10/pstore",
       "device": "olivelite",
